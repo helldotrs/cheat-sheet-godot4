@@ -1,6 +1,11 @@
+plain:
+w drag
+
+ctrl:
+ctrl+space info
 
 
-ctrl+shift info
+f:
 f5 run game
 f6 run scene
-w drag
+f8 stop running
