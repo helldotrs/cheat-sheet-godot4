@@ -1,8 +1,9 @@
 plain:
 w drag
 
-ctrl:
-ctrl+space info
+ctl:
+ctl+space info
+ctl+d duplicate
 
 
 f:
